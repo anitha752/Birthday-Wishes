@@ -14,7 +14,7 @@ body {
             box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
             background: 
             linear-gradient(to bottom, white, rgba(255, 255, 255, 0.5)), 
-            url("cake1.jpg");
+            url("cake.jpg");
     background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255, 255, 255, 0.4)), url("cake.jpg");
     background-position: center;
     background-repeat: no-repeat;
