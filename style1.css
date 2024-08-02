@@ -10,6 +10,8 @@ body {
     height: 395px;
     border: 10px solid #B76E79;
     margin: 60px auto 0 auto;
+    display:flex;
+    flex-wrap:wrap;
     -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
             box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
             background: 
