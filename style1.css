@@ -106,3 +106,9 @@ body {
     -webkit-box-shadow: 7px 0 5px 0 rgba(0, 0, 0, 0.3), inset 2px 0px 15px 0px rgba(0, 0, 0, 0.1);
             box-shadow: 7px 0 5px 0 rgba(0, 0, 0, 0.3), inset 2px 0px 15px 0px rgba(0, 0, 0, 0.1);
   }
+
+@media only screen and (max-width: 600px) {
+    .birthday-card {
+        perspective: 1000px; /* Adjust as needed */
+    }
+}
