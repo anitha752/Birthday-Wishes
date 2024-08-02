@@ -109,12 +109,5 @@ body {
             box-shadow: 7px 0 5px 0 rgba(0, 0, 0, 0.3), inset 2px 0px 15px 0px rgba(0, 0, 0, 0.1);
   }
 
-@media only screen and (max-width: 600px) {
-    .cover-inner {
-        perspective: 1000px; /* Adjust as needed */
-    }
-    .cover-outer {
-        backface-visibility: hidden; /* Ensure content is visible */
-    }
-}
+
 
